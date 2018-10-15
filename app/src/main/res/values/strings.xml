@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GitHubClient</string>
+    <string name="title_activity_main">GitHub клиент</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ваш логин</string>
+    <string name="nav_header_subtitle">Ваш e-mail</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="profile">Профиль</string>
+    <string name="notifications">Уведомления</string>
+    <string name="news">Новости</string>
+    <string name="settings">Настройки</string>
+    <string name="my_repos">Мои репошки</string>
+    <string name="naw_login">Ваш логин</string>
+    <string name="web">Ваш e-mail</string>
+    <string name="login_hint">Введите Ваш логин</string>
+    <string name="password_hint">Введите Ваш пароль</string>
+    <string name="log_in">Вход</string>
+</resources>
